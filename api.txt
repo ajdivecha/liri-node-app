@@ -1,0 +1,10 @@
+Spotify
+Client ID
+769427f003b340a487b64a8e0a3d4fc0
+Client Secret
+49ed81d7cf1d4bf0b447cc31bcd5cc2e
+
+OMDB
+Here is your key: d294d450
+Please append it to all of your API requests,
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=d294d450
